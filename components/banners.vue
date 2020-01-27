@@ -5,7 +5,7 @@
           <div class="slider">
             <div class="h-100 flex justify-between items-center">
               <div class="w-50-l w-100 tl-l tc pa0-l pa3">
-                <p class="ttu green-gl">servicios</p>
+                <p class="ttu black">servicios</p>
                 <h1 class="mv3 blue-gl">Seguridad para redes empresariales</h1>
                 <p class="lh-subtitle gray mt0">Buscamos mantener relacionamientos estratégicos con nuestros clientes en base a confianza y lealtad, ayudandolos a mejorar sus negocios a traves de la tecnologia, innovacion y servicios.</p>
               </div>
