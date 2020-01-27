@@ -1,0 +1,27 @@
+{
+  "name": "aglobal",
+  "version": "1.0.0",
+  "description": "AGlobal",
+  "author": "Cintia Gonzalez",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0",
+    "vue-owl-carousel2": "^2.0.7",
+    "vue-scrollto": "^2.17.1",
+    "vuejs-paginate": "^2.1.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.1",
+    "nodemon": "^1.18.9",
+    "push-dir": "^0.4.1",
+    "sass-loader": "^7.1.0"
+  }
+}
