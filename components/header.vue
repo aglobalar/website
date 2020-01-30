@@ -17,7 +17,7 @@
           <a href="/" class="link"><img src="/aglobal-logo.svg" alt="logo" class="logo-m"></a>
 
           <div class="dropdown">
-            <button class="dropbtn" aria-label="Toggle Menu"></button>
+            <button class="dropbtn" aria-label="Toggle Menu"><img src="/menu.svg"></button>
             <nav class="dropdown-menu ph3" id="drop-menu">
               <a v-scroll-to="'#nosotros'" class="blue-tr link f6 db ttu pv3">nosotros</a>
               <a v-scroll-to="'#servicios'" class="blue-tr link f6 db ttu pv3">servicios</a>
@@ -71,15 +71,15 @@ export default {
 <style lang="scss" scoped>
   header {
     .logo-m {
-      width: 40px;
-      height: 54px;
+        width: 130px;
+        height: 25px;
     }
     nav a {
       cursor: pointer;
     }
     #desktop-menu {
       transition: 0.2s;
-      height: 3rem;
+      height: 5rem;
       padding: 1.4rem 0 0.7rem;
 
       .logo {
@@ -91,7 +91,7 @@ export default {
       }
 
       &.w-icon {
-        height: 5rem;
+        height: 4rem;
         padding: 1rem 0;
 
         .logo {
@@ -104,35 +104,30 @@ export default {
     }
 
     .dropdown {
-      .dropbtn {
-        font-family: 'icomoon';
-        position: relative;
-        display: block;
-        background: transparent;
-        border: none;
-        color: #999;
+       .dropbtn {
+         position: relative;
+         display: block;
+         background: transparent;
+         border: none;
+         width: 25px;
+         padding: 0;
+       }
 
-        &::after {
-          font-size: 1.5em;
-          content: "\e911";
-        }
-      }
+       .dropdown-menu {
+         font-size: 1.2em;
+         display: none;
+         position: absolute;
+         width: 100%;
+         left: 0;
+         top: 100%;
+         overflow: auto;
+         z-index: 2;
+         background-color: white;
+       }
 
-      .dropdown-menu {
-        font-size: 1.2em;
-        display: none;
-        position: absolute;
-        width: 100%;
-        left: 0;
-        top: 100%;
-        overflow: auto;
-        z-index: 2;
-        background-color: #fafafa
-      }
-
-      #drop-menu.show {
-        display: block;
-      }
-    }
+       #drop-menu.show {
+         display: block;
+       }
+     }
   }
 </style>
