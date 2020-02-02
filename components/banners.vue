@@ -17,7 +17,7 @@
             <div class="h-100 flex flex-wrap justify-between items-center">
               <div class="w-50-l w-100 tl-l tc">
                 <p class="ttu green-gl tracked">mision</p>
-                <h1 class="mv3 blue-gl">Anticipamos las amenazas</h1>
+                <h1 class="mv3 blue-gl">Innovación, calidad y servicios de excelencia</h1>
                 <p class="lh-subtitle mt0 mb5-l mb4">Nuestro principal objetivo es ser los mejores en lo que hacemos a través de tecnología e innovación en servicios.</p>
                 <p class="mb0"><a v-scroll-to="'#nosotros'" class="link ttu btn br2 tracked">conocenos</a></p>
               </div>
@@ -35,7 +35,7 @@
       height: 600px;
       width: 100%;
       h1 {
-        font-size: 3.5em;
+        font-size: 3.2em;
 
         @media screen and (max-width: 60em) {
           font-size: 1.5em;

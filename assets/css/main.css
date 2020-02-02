@@ -46,11 +46,11 @@ h3 {
 /* Colors */
 
 .blue-gl {
-  color: #0000a7;
+  color: #162D8C;
 }
 
 .bg-blue-gl {
-  background-color: #0000a7;
+  background-color: #162D8C;
 }
 
 .green-gl,
@@ -65,11 +65,11 @@ h3 {
 
 .btn {
   padding: 0.8rem 1.5rem;
-  background-color: #0000a7;
+  background-color: #162D8C;
   color: white;
   cursor: pointer;
 }
 
 .btn:hover {
-  background-color: #000068;
+  background-color: #0A1540;
 }

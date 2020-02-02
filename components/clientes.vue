@@ -29,20 +29,20 @@ export default {
           name: 'cisco',
         },
         {
-          link: 'https://www.fortinet.com/',
-          name: 'fortinet',
+          link: 'http://www.apc.com/ar/es/',
+          name: 'apc',
         },
         {
           link: 'http://www1.la.dell.com/content/default.aspx?c=ar&l=es&s=&s=gen&~ck=cr',
           name: 'dell',
         },
         {
-          link: 'https://es.arbornetworks.com/',
-          name: 'arbor',
+          link: 'https://www.fortinet.com/',
+          name: 'fortinet',
         },
         {
-          link: 'https://www.symantec.com',
-          name: 'blue-coat',
+          link: 'https://es.arbornetworks.com/',
+          name: 'arbor',
         },
        {
           link: 'https://meraki.cisco.com/',
@@ -51,18 +51,6 @@ export default {
         {
           link: 'https://www.vmware.com/ar.html',
           name: 'vmware',
-        },
-        {
-          link: 'https://www.microsoft.com/es-ar',
-          name: 'microsoft',
-        },
-        {
-          link: 'https://www.nominum.com/',
-          name: 'nominum',
-        },
-        {
-          link: 'http://www.apc.com/ar/es/',
-          name: 'apc',
         }
       ]
     }

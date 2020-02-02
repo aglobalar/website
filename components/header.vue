@@ -95,7 +95,7 @@ export default {
         padding: 1rem 0;
 
         .logo {
-          width: 55px;
+          width: 155px;
           height: 30px;
           background: url("/aglobal-logo.svg");
           background-size: 155px 30px;

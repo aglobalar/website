@@ -17,21 +17,22 @@ meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { name: 'description', hid: 'description', content: 'Somos una empresa joven proveedora de soluciones y servicios integrados de Tecnologías y comunicaciones basados en una amplia experiencia en redes, seguridad, infraestructura ti, colaboracion, servicios profesionales y gerenciados.'},
+      { name: 'keyword', content:'seguridad en redes, comunicaciones, wireless, cyberseguridad, amenazas, mfa, primera linea de defensa, consultoria, cisco partner'},
       // Open Graph
       { name: 'og:title', content: 'AGlobal' },
       { name: 'og:description', content: 'Somos una empresa joven proveedora de soluciones y servicios integrados de Tecnologías y comunicaciones basados en una amplia experiencia en redes, seguridad, infraestructura ti, colaboracion, servicios profesionales y gerenciados.'},
       { name: 'og:type', content: 'website' },
-      { name: 'og:url', content: 'https://aglobal.ar/' },
-      { name: 'og:image', content: 'https://aglobal.ar/og-image.png' },
+      { name: 'og:url', content: 'https://aglobal.com.ar/' },
+      { name: 'og:image', content: 'https://aglobal.com.ar/og-image.png' },
       // Twitter Card
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:site', content: '@aglobal_it' },
       { name: 'twitter:title', content: 'AGlobal' },
       { name: 'twitter:description', content: 'Somos una empresa joven proveedora de soluciones y servicios integrados de Tecnologías y comunicaciones basados en una amplia experiencia en redes, seguridad, infraestructura ti, colaboracion, servicios profesionales y gerenciados.'},
-      { name: 'twitter:image', content: 'https://aglobal.ar/og-image.png' },     
+      { name: 'twitter:image', content: 'https://aglobal.com.ar/og-image.png' },     
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: 'https://aglobal.ar/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: 'https://aglobal.com.ar/favicon.ico' },
       { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.11.1/tachyons.min.css'},
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Poppins:400,700'},
     ]

@@ -2,7 +2,7 @@
   <div id="nosotros" class="container center pv6-l pv4">
     <div class="flex flex-wrap">
       <div class="w-50-l w-100 ph3">
-        <p class="f5 ttu green-gl normal tracked">conocenos</p>
+        <p class="f5 ttu green-gl normal tracked">nosotros</p>
         <h2 class="f2-l f4 blue-gl mv0">Brindamos servicios integrados de
           tecnologías y comunicaciones</h2>
         <p class="lh-copy">Nuestra mision es ser la mejor empresa de servicios y soluciones de TI para clientes, partners y
