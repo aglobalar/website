@@ -14,7 +14,7 @@
           tecnológicos como en relación a la adquisición y entrega. Además, ofrecemos servicios de planificación,
           diseño, implementación e integración hasta el soporte, gerenciamiento y operación. </p>
           <h3 class="blue-gl f3-l f4 normal">Contamos con un amplio reconocimiento del mercado</h3>
-          <p class="lh-copy">Nos especializamos en Routing y Switching avanzado, Seguridad avanzada, Wireless avanzado, Infraestructura TI, Colaboración de voz y video, Capacitación</p>
+          <p class="lh-copy">Nos especializamos en Seguridad avanzada, Routing y Switching, Wireless avanzado, Colaboracion de Voz y Video, Capacitacion</p>
       </div>
     </div>
   </div>

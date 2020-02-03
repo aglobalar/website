@@ -8,9 +8,9 @@
                 <p class="ttu green-gl tracked">servicios</p>
                 <h1 class="mv3 blue-gl">Seguridad para redes empresariales</h1>
                 <p class="lh-subtitle mt0 mb5-l mb4">Buscamos mantener relacionamientos estratégicos con nuestros clientes en base a confianza y lealtad, ayudandolos a mejorar sus negocios a traves de la tecnologia, innovacion y servicios.</p>
-               <p class="mb0"><a v-scroll-to="'#servicios'" class="link ttu btn br2 tracked">descubri mas</a></p>
+               <p class="mb0"><a v-scroll-to="'#servicios'" class="link ttu btn br2 tracked">descubrí mas</a></p>
               </div>
-              <div class="w-50-l w-100"><img src="/lock-pass.png" class="img-hero" alt="computer security pass"></div>
+              <div class="w-50-l w-100"><img src="/book-pass.png" class="img-hero" alt="cybersecurity"></div>
             </div>
           </div>
           <div class="slider">
@@ -19,9 +19,9 @@
                 <p class="ttu green-gl tracked">mision</p>
                 <h1 class="mv3 blue-gl">Innovación, calidad y servicios de excelencia</h1>
                 <p class="lh-subtitle mt0 mb5-l mb4">Nuestro principal objetivo es ser los mejores en lo que hacemos a través de tecnología e innovación en servicios.</p>
-                <p class="mb0"><a v-scroll-to="'#nosotros'" class="link ttu btn br2 tracked">conocenos</a></p>
+                <p class="mb0"><a v-scroll-to="'#nosotros'" class="link ttu btn br2 tracked">conócenos</a></p>
               </div>
-                <div class="w-50-l w-100"><img src="/book-pass.png" class="img-hero" alt="computer security pass"></div>
+                <div class="w-50-l w-100"><img src="/lock-pass.png" class="img-hero" alt="innovation"></div>
             </div>
           </div>
     </carousel>
