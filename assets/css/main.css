@@ -65,11 +65,13 @@ h3 {
 
 .btn {
   padding: 0.8rem 1.5rem;
-  background-color: #162d8c;
+  background-color: transparent;
+  border: solid 2px white;
   color: white;
   cursor: pointer;
 }
 
 .btn:hover {
-  background-color: #0000a7;
+  background-color: white;
+  color: #162d8c;
 }

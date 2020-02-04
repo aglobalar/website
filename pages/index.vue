@@ -24,7 +24,7 @@ export default {
 </script>
 <style lang="scss" scoped>
 .bg-gradient {
-  background: linear-gradient(0deg, rgb(235, 240, 247) 0%, rgb(255, 255, 255) 100%);
+  background: linear-gradient(0deg, #0f054c 0%, #162d8c 100%);
 }
 </style>
 
