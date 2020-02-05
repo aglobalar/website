@@ -1,6 +1,6 @@
 <template>
-  <div id="nosotros" class="container center pv6-l pv4">
-    <div class="flex flex-wrap">
+<div id="nosotros" class="container center pv6-l pv4">
+    <div class="flex flex-wrap" data-aos="fade-up">
       <div class="w-50-l w-100 ph3">
         <p class="f5 ttu green-gl normal tracked">nosotros</p>
         <h2 class="f2-l f4 blue-gl mv0">Brindamos servicios integrados de

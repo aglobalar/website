@@ -47,7 +47,8 @@ meta: [
   ** Global CSS
   */
   css: [
-    { src: './assets/css/main.css' }
+    { src: './assets/css/main.css' },
+    { src: 'aos/dist/aos.css' }
     ],
 
   /*
@@ -55,7 +56,8 @@ meta: [
   */
   plugins: [
     { src: '~/plugins/owl.js', ssr: false },
-    { src: '~/plugins/scroll-to.js', ssr: false }
+    { src: '~/plugins/scroll-to.js', ssr: false },
+    { src: '~/plugins/aos.js', ssr: false } // https://github.com/michalsnik/aos#animations
   ],
 
   /*

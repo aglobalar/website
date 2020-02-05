@@ -6,7 +6,7 @@
       <h2 class="f2-l f4 blue-gl mt0">Marcas lideres en el mercado</h2>
     </div>
     <ul class="flex flex-wrap justify-center pa0 list clients">
-      <li v-for="c in clients" :key="c.name" class="ph2 pv3">
+      <li v-for="c in clients" :key="c.name" class="ph2 pv3" data-aos="fade-up">
         <a :href="c.link" target="_blank" rel="noopener">
           <img :src="`/clients/${c.name}.png`" class="dib" :alt="c.name">
         </a>
