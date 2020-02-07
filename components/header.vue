@@ -115,6 +115,7 @@ export default {
     &.w-icon {
       height: 4rem;
       padding: 1rem 0;
+      background-color: white;
 
       .logo {
         fill: #162d8c;
