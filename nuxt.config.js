@@ -63,8 +63,9 @@ meta: [
   /*
   ** Nuxt.js modules
   */
-  modules: [
-  ],
+ modules: [
+ ['nuxt-cname-module', { baseUrl: 'aglobal.com.ar' }],
+],
 
   /*
   ** Build configuration

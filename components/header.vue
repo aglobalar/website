@@ -115,7 +115,7 @@ export default {
     &.w-icon {
       height: 4rem;
       padding: 1rem 0;
-      background-color: white;
+      background-color: rgba($color: #ffffff, $alpha: 0.7);
 
       .logo {
         fill: #162d8c;
