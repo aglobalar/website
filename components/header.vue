@@ -37,13 +37,12 @@
         </div>
 
         <div class="dn-l">
-
           <div class="dropdown">
             <button class="dropbtn" aria-label="Toggle Menu"><img src="/menu.svg"></button>
-            <nav class="dropdown-menu ph3" id="drop-menu">
-              <a v-scroll-to="'#nosotros'" class="white link f6 db ttu pv3">nosotros</a>
-              <a v-scroll-to="'#servicios'" class="white link f6 db ttu pv3">servicios</a>
-              <a v-scroll-to="'#contacto'" class="white link f6 db ttu pv3">contacto</a>
+            <nav class="dropdown-menu ph3">
+              <a v-scroll-to="'#nosotros'" class="link f6 db ttu pv3">nosotros</a>
+              <a v-scroll-to="'#servicios'" class="link f6 db ttu pv3">servicios</a>
+              <a v-scroll-to="'#contacto'" class="link f6 db ttu pv3">contacto</a>
             </nav>
           </div>
 
@@ -62,11 +61,13 @@ function menuMob() {
   toggle.addEventListener('click', function () {
     topNav.classList.toggle("show");
   }, false);
+  
 }
+
 
 function scrollFunction() {
    const element = document.getElementById("header");
-  if (document.body.scrollTop > 660 || document.documentElement.scrollTop > 660) {
+  if (document.body.scrollTop > 600 || document.documentElement.scrollTop > 600) {
     element.classList.add("w-icon");
   } else {
     element.classList.remove("w-icon");
@@ -95,6 +96,9 @@ export default {
     transition: 0.2s;
     height: 5rem;
     padding: 1.4rem 0 0.7rem;
+    @media screen and (max-width: 60em) {
+      background-color: #142a84;
+    }
 
     .logo-m {
       width: 130px;
@@ -111,21 +115,7 @@ export default {
       height: 30px;
       fill: white;
     }
-
-    &.w-icon {
-      height: 4rem;
-      padding: 1rem 0;
-      background-color: rgba($color: #ffffff, $alpha: 0.7);
-
-      .logo {
-        fill: #162d8c;
-      }
-       nav a {
-      color: #162d8c;
-    }
-    }
-
-    .dropdown {
+.dropdown {
       .dropbtn {
         position: relative;
         display: block;
@@ -142,14 +132,38 @@ export default {
         width: 100%;
         left: 0;
         top: 100%;
+        margin-top: 0.7rem;
         overflow: auto;
         z-index: 2;
-        background-color: #162d8c;
-      }
-
-      #drop-menu.show {
+        background-color: #142a84;
+        a {
+          color: white;
+        }
+        &.show {
         display: block;
       }
+      }
+
+    }
+    &.w-icon {
+      height: 4rem;
+      padding: 1rem 0;
+      background-color: white;
+
+      .logo {
+        fill: #162d8c;
+      }
+       nav a {
+      color: #162d8c;
+    }
+    .dropdown {
+      .dropdown-menu {
+         background-color: white;
+                 a {
+          color: #162d8c;
+        }
+      }
+    }
     }
   }
 </style>

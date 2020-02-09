@@ -4,7 +4,7 @@
           <div class="slider">
                   <div class="container center ph3 pt6-l pt5">
             <div class="h-100 flex flex-wrap justify-between items-center">
-              <div class="w-50-l w-100 tl-l tc pa0-l pa3">
+              <div class="w-50-l w-100 tl-l tc pa0-l pv3">
                 <p class="ttu green-gl tracked">servicios</p>
                 <h1 class="mv3 white">Seguridad para redes empresariales</h1>
                 <p class="lh-subtitle moon-gray mt0 mb5-l mb4">Buscamos mantener relacionamientos estratégicos con nuestros clientes en base a confianza y lealtad, ayudandolos a mejorar sus negocios a traves de la tecnologia, innovacion y servicios.</p>
@@ -17,7 +17,7 @@
           <div class="slider">
                   <div class="container center ph3 pt6-l pt5">
             <div class="h-100 flex flex-wrap justify-between items-center">
-              <div class="w-50-l w-100 tl-l tc">
+              <div class="w-50-l w-100 tl-l tc pa0-l pv3">
                 <p class="ttu green-gl tracked">mision</p>
                 <h1 class="mv3 white">Innovación, calidad y servicios de excelencia</h1>
                 <p class="lh-subtitle moon-gray mt0 mb5-l mb4">Nuestro principal objetivo es ser los mejores en lo que hacemos a través de tecnología e innovación en servicios.</p>
