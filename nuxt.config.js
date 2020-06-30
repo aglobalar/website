@@ -47,8 +47,7 @@ meta: [
   ** Global CSS
   */
   css: [
-    { src: './assets/css/main.css' },
-    { src: 'aos/dist/aos.css' }
+    { src: './assets/css/main.css' }
     ],
 
   /*
