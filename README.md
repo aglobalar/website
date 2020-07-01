@@ -15,10 +15,8 @@ $ npm run dev
 $ npm run build
 $ npm start
 
-# generate static project
+# generate static project & deploy after commit changes
 $ npm run generate
-
-# deploy after commit changes
 $ npm run deploy
 ```
 
