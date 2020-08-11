@@ -2,7 +2,7 @@
 <div class="container center ph3 dn-ms">
   <div class="clients pv5-l pv4">
     <div class="tc pb4">
-      <p class="f5 ttu green-gl normal tracked">experiencia</p>
+      <p class="f5 ttu tag normal tracked">experiencia</p>
       <h2 class="f2-l f4 blue-gl mt0">Marcas lideres en el mercado</h2>
     </div>
     <ul class="flex flex-wrap justify-center items-center pa0 list clients">

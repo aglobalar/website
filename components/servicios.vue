@@ -1,12 +1,12 @@
 <template>
   <div id="servicios">
-    <div class="container center pv6-l pv4 ph3">
-        <p class="f5 ttu green-gl normal tracked mt0">servicios</p>
+    <div class="container center pv5-l pv4 ph3">
+        <p class="f5 ttu blue-gl normal tracked mt0">servicios</p>
       <div class="flex flex-wrap nl2 nr2 blue-gl">
         <article v-for="s in servicios" :key="s.name" class="w-third-l ph2 z-1 relative mv2" data-aos="fade-up" data-aos-delay="50" >
           <span class="absolute top-1-l top-2 right-2"><img :src="`/${s.icon}.svg`" :alt="s.name"></span>
           <div class="h-services pa4 lh-copy h5 dtc v-btm">
-            <p class="green-gl ttu f4">{{s.name}}</p>
+            <p class="green-gl ttu f4 fw7">{{s.name}}</p>
             <p class="mb0 b f5-l f6">{{s.subtitle}}</p>
             <p class="mv0 f6">{{s.content}}</p>
           </div>

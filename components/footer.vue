@@ -4,7 +4,7 @@
       <div class="flex flex-wrap justify-between-l justify-center items-center">
         <p class="f7 tl-l tc">AGlobal © 2015 - 2020. Todos los derechos protegidos </p>
         <ul class="w5 pl0 flex justify-end-l justify-center list">
-          <li class="pr2"><a href="https://www.linkedin.com/company/aglobalsrl" target="_blank" rel="noopener"><svg version="1.1" class="social-icons"
+          <li class="pr2"><a href="https://www.linkedin.com/company/aglobalsrl" target="_blank" rel="noopener" aria-label="linkedin"><svg version="1.1" class="social-icons"
                 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                 viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
                 <path fill-rule="evenodd" clip-rule="evenodd" d="M23.7,21.6h-3.2v-5.2c0-1.3-0.5-2.2-1.6-2.2c-0.9,0-1.4,0.6-1.7,1.2c-0.1,0.2-0.1,0.5-0.1,0.8v5.4h-3.2
@@ -12,7 +12,7 @@
 	c0-0.9,0.7-1.7,1.8-1.7c1.1,0,1.8,0.7,1.8,1.7C12.2,9.9,11.5,10.6,10.4,10.6L10.4,10.6z M8.8,21.6H12v-9.7H8.8V21.6z M15.3,0.6
 	C7.3,0.6,0.8,7.1,0.8,15c0,8,6.5,14.4,14.5,14.4S29.8,23,29.8,15C29.8,7.1,23.3,0.6,15.3,0.6L15.3,0.6z" />
               </svg></a></li>
-                        <!--<li class="pr2"><a href="https://twitter.com/aglobal_it" target="_blank" rel="noopener"><svg version="1.1" class="social-icons"
+                        <!--<li class="pr2"><a href="https://twitter.com/aglobal_it" target="_blank" rel="noopener" aria-label="twitter"><svg version="1.1" class="social-icons"
                 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                 viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
                 <path fill-rule="evenodd" clip-rule="evenodd" d="M22.2,12.3c0,0.1,0,0.3,0,0.4c0,4.3-3.3,9.3-9.3,9.3c-1.9,0-3.6-0.5-5-1.5c0.3,0,0.5,0,0.8,0
@@ -23,7 +23,7 @@
 	C29.8,7.1,23.3,0.6,15.3,0.6" />
               </svg></a></li>-->
 
-          <li class="pr2"><a href="https://www.instagram.com/aglobal_it/" target="_blank" rel="noopener"><svg version="1.1" class="social-icons"
+          <li class="pr2"><a href="https://www.instagram.com/aglobal_it/" target="_blank" rel="noopener" aria-label="instagram"><svg version="1.1" class="social-icons"
                 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                 viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
                 	<path d="M22.5,10.9c0-1.9-1.5-3.4-3.4-3.4h-8.2C9,7.5,7.5,9,7.5,10.9v8.2c0,1.9,1.5,3.4,3.4,3.4h8.2c1.9,0,3.4-1.5,3.4-3.4h0V10.9z
@@ -35,7 +35,7 @@
 		c-2.8,0-5.1-2.3-5.1-5.1v-8.2c0-2.8,2.3-5.1,5.1-5.1h8.2c2.8,0,5.1,2.3,5.1,5.1V19.1z"/>
               </svg>
             </a></li>
-          <li class="pr2"><a href="https://www.facebook.com/aglobal.it/?fref=ts" target="_blank" rel="noopener"><svg version="1.1" class="social-icons"
+          <li class="pr2"><a href="https://www.facebook.com/aglobal.it/?fref=ts" target="_blank" rel="noopener" aria-label="facebook"><svg version="1.1" class="social-icons"
                 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                 viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
                 <path

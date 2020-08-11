@@ -12,6 +12,9 @@ module.exports = {
   ** Headers of the page
   */
   head: {
+    htmlAttrs: {
+      lang: 'es'
+    },
     title: 'AGlobal - Soluciones y Servicios TI',
 meta: [
       { charset: 'utf-8' },

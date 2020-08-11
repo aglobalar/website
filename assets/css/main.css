@@ -53,6 +53,9 @@ h3 {
   background-color: #162d8c;
 }
 
+.tag {
+  color: #162d8c;
+}
 .green-gl,
 .hover-green-gl:hover,
 .hover-green-gl:focus {

@@ -2,7 +2,7 @@
   <header id="header" class="fixed z-999 w-100" role="banner">
     <div class="container center relative ph3">
       <div class="flex justify-between items-center">
-        <a href="/" class="link">
+        <a href="/" aria-label="aglobal" class="link">
         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 311 60"
             style="enable-background:new 0 0 311 60;" xml:space="preserve" class="logo">
