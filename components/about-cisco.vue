@@ -3,13 +3,13 @@
 <div class="container center pv6-l pv5">
     <div class="flex flex-wrap justify-between">
             <div class="w-50-l w-100 pr4-l ph4">
-        <h1 class="trust-title white">Protegemos su negocio con las soluciones de Seguridad más potentes del mercado</h1>
+        <h1 class="trust-title white">Protegemos su negocio con las soluciones de seguridad más potentes del mercado</h1>
         
-        <p class="mt4 mb0 db-l dn"><a v-scroll-to="'#servicios'" class="link ttu btn br2 tracked white">conocé algunos</a></p>
+        <p class="mv4 db-l dn"><a v-scroll-to="'#servicios'" class="link ttu btn br2 tracked white">conocé algunos</a></p>
       </div>
             <div class="w-50-l w-100 ph4-l ph4">
-                <p class="lh-global white">Implemente la Seguridad de <strong>Zero Trust de Cisco</strong> integrado en un ecosistema de productos que le permite proporcionar una seguridad completa en cualquier entorno empresarial. Asegure sus aplicaciones y entorno, desde cualquier usuario, dispositivo y ubicación, protegiendo el acceso al lugar de trabajo, las cargas de trabajo y a su personal.</p>
-                 <p class="mt4 mb0 dn-l db"><a v-scroll-to="'#servicios'" class="link ttu btn br2 tracked white">conocé algunos</a></p>
+                <p class="lh-global white">Implementá la <strong>Seguridad de Zero Trust de Cisco</strong>, integrado en un ecosistema de productos que permite proporcionar una seguridad completa en cualquier entorno empresarial.</p><p>Asegurando sus aplicaciones y entorno, desde cualquier usuario, dispositivo y ubicación, protegiendo el acceso al lugar de trabajo, las cargas de trabajo y a su personal.</p>
+                 <p class="mv4 dn-l db"><a v-scroll-to="'#servicios'" class="link ttu btn br2 tracked white">conocé algunos</a></p>
       </div>
     </div>
   </div>

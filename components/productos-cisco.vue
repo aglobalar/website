@@ -24,13 +24,13 @@
     <div class="container center">
       <div class="flex flex-wrap flex-row-l flex-column-reverse justify-between items-end">
                           <div class="w-50-l w-100 ph0-l ph4 tl-l tc">
-                                <p class="blue-cs f3-l f5 normal w-70-l w-100 center tc">30 segundos es todo lo que necesita para proteger a los usuarios en línea</p>
+                                <p class="blue-cs f3-l f5 normal w-70-l w-100 center tc">30 segundos es todo lo que se necesita para proteger a los usuarios en línea</p>
           <img src="/umbrella-graph.jpg" class="v-mid tc  nl4-l nl0" alt="duo">
         </div>
         <div class="w-50-l w-100 pl5-l ph4 pv6-l pv5 ">
           <h2 class="about-title blue-gl"><em>Umbrella</em> es la forma más fácil de proteger a los usuarios en cuestión de minutos</h2>
 
-          <p class="lh-global">Obtenga visibilidad para proteger el acceso a Internet en todos los dispositivos de su red y a los usuarios, en forma remota, en cualquier lugar para detener las amenazas antes de que lleguen a su red o endpoints.</p>
+          <p class="lh-global">Visibilidad para proteger el acceso a Internet en todos los dispositivos de su red y a los usuarios, en forma remota, en cualquier lugar. Detener las amenazas antes de que lleguen a su red o endpoints.</p>
           <p class="mt4 mb0"><a href="mailto:info@aglobal.com.ar" class="link ttu btn br2 tracked blue-gl">solicitá
               trial</a></p>
         </div>
@@ -40,9 +40,9 @@
     <div class="container center">
       <div class="flex flex-wrap justify-between items-center">
         <div class="w-50-l w-100 pr4-l ph4 pv6-l pv5">
-          <h2 class="about-title blue-gl mv0">Con <em>Cisco AMP</em> obtenga seguridad eficaz para todas las terminales</h2>
+          <h2 class="about-title blue-gl mv0"><em>Cisco AMP,</em> seguridad eficaz para todas las terminales</h2>
 
-          <p class="lh-global">Con el aumento de las amenazas móviles, las empresas necesitan contar con una seguridad eficaz, Cisco AMP evita las amenazas en el punto de entrada y realiza un seguimiento continuo de cada archivo que ingresa en su red.</p>
+          <p class="lh-global">Con el aumento de las amenazas móviles, las empresas necesitan contar con una seguridad eficaz, <strong>Cisco AMP</strong> evita las amenazas en el punto de entrada y realiza un seguimiento continuo de cada archivo que ingresa en su red.</p>
           <p class="mt4 mb0"><a href="mailto:info@aglobal.com.ar" class="link ttu btn br2 tracked blue-gl">solicitá
               trial</a></p>
         </div>
