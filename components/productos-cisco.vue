@@ -11,7 +11,7 @@
             segunda
             fuente de validación. Bloquea el acceso de los dispositivos obsoletos, inseguros o desconocidos a sus
             aplicaciones y dispositivos en la nube.</p>
-          <p class="mt4 mb0"><a href="mailto:info@aglobal.com.ar" class="link ttu btn br2 tracked blue-gl">solicite
+          <p class="mt4 mb0"><a href="mailto:info@aglobal.com.ar" class="link ttu btn br2 tracked blue-gl">solicitá
               trial</a></p>
          </div>
         </div>
@@ -31,7 +31,7 @@
           <h2 class="about-title blue-gl"><em>Umbrella</em> es la forma más fácil de proteger a los usuarios en cuestión de minutos</h2>
 
           <p class="lh-global">Obtenga visibilidad para proteger el acceso a Internet en todos los dispositivos de su red y a los usuarios, en forma remota, en cualquier lugar para detener las amenazas antes de que lleguen a su red o endpoints.</p>
-          <p class="mt4 mb0"><a href="mailto:info@aglobal.com.ar" class="link ttu btn br2 tracked blue-gl">solicite
+          <p class="mt4 mb0"><a href="mailto:info@aglobal.com.ar" class="link ttu btn br2 tracked blue-gl">solicitá
               trial</a></p>
         </div>
       </div>
@@ -43,7 +43,7 @@
           <h2 class="about-title blue-gl mv0">Con <em>Cisco AMP</em> obtenga seguridad eficaz para todas las terminales</h2>
 
           <p class="lh-global">Con el aumento de las amenazas móviles, las empresas necesitan contar con una seguridad eficaz, Cisco AMP evita las amenazas en el punto de entrada y realiza un seguimiento continuo de cada archivo que ingresa en su red.</p>
-          <p class="mt4 mb0"><a href="mailto:info@aglobal.com.ar" class="link ttu btn br2 tracked blue-gl">solicite
+          <p class="mt4 mb0"><a href="mailto:info@aglobal.com.ar" class="link ttu btn br2 tracked blue-gl">solicitá
               trial</a></p>
         </div>
          <div class="w-50-l w-100">
