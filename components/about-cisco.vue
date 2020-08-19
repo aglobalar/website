@@ -8,7 +8,8 @@
         <p class="mv4 db-l dn"><a v-scroll-to="'#servicios'" class="link ttu btn br2 tracked white">conocé algunos</a></p>
       </div>
             <div class="w-50-l w-100 ph4-l ph4">
-                <p class="lh-global white">Implementá la <strong>Seguridad de Zero Trust de Cisco</strong>, integrado en un ecosistema de productos que permite proporcionar una seguridad completa en cualquier entorno empresarial.</p><p>Asegurando sus aplicaciones y entorno, desde cualquier usuario, dispositivo y ubicación, protegiendo el acceso al lugar de trabajo, las cargas de trabajo y a su personal.</p>
+                <p class="lh-global white">Implementá la <strong>Seguridad de Zero Trust de Cisco</strong>, integrado en un ecosistema de productos que permite proporcionar una seguridad completa en cualquier entorno empresarial.</p>
+                <p class="lh-global white">Asegurando sus aplicaciones y entorno, desde cualquier usuario, dispositivo y ubicación, protegiendo el acceso al lugar de trabajo, las cargas de trabajo y a su personal.</p>
                  <p class="mv4 dn-l db"><a v-scroll-to="'#servicios'" class="link ttu btn br2 tracked white">conocé algunos</a></p>
       </div>
     </div>

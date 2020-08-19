@@ -2,7 +2,7 @@
   <footer>
     <div class="container center ph4 pv4">
       <div class="flex flex-wrap justify-between-l justify-center items-center">
-        <p class="f7 tl-l tc">AGlobal © 2015 - 2020. Todos los derechos protegidos </p>
+        <p class="f7 tl-l tc">AGlobal © 2015 - 2020. Todos los derechos protegidos. </p>
         <ul class="w5 pl0 flex justify-end-l justify-center list">
           <li class="pr2"><a href="https://www.linkedin.com/company/aglobalsrl" target="_blank" rel="noopener" aria-label="linkedin"><svg version="1.1" class="social-icons"
                 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
