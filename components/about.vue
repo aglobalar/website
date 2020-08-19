@@ -1,7 +1,7 @@
 <template>
 <div id="nosotros" class="container center pv5-l pv4">
     <div class="flex flex-wrap">
-      <div class="w-50-l w-100 ph3">
+      <div class="w-50-l w-100 ph4">
         <p class="f5 ttu tag normal tracked">nosotros</p>
         <h2 class="about-title blue-gl mv0">Brindamos servicios integrados de
           tecnologías y comunicaciones</h2>
@@ -9,7 +9,7 @@
           profesionales en Argentina y paises del Mercosur. Todos los esfuerzos están orientados a alcanzar estos
           objetivos por medio de innovación, calidad y compromiso con servicios de excelencia.</p>
       </div>
-      <div class="w-50-l w-100 ph3">
+      <div class="w-50-l w-100 ph4">
         <p class="lh-global">Permitimos que los clientes opten por el modelo que mejor se ajuste a sus necesidades, tanto en términos
           tecnológicos como en relación a la adquisición y entrega. Además, ofrecemos servicios de planificación,
           diseño, implementación e integración hasta el soporte, gerenciamiento y operación. </p>

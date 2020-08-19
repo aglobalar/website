@@ -66,15 +66,31 @@ h3 {
   background-color: #00c8b9;
 }
 
+.blue-cs,
+.hover-blue-cs:hover,
+.hover-blue-cs:focus {
+  color: #00bceb;
+}
+
+.bg-blue-cs {
+  background-color: #00bceb;
+}
 .btn {
   padding: 0.8rem 1.5rem;
   background-color: transparent;
-  border: solid 2px white;
-  color: white;
+  border: solid 2px;
   cursor: pointer;
+  display: inline-block;
 }
 
 .btn:hover {
   background-color: white;
   color: #162d8c;
+  border-color: white;
+}
+
+.btn.blue-gl:hover {
+  background-color: #162d8c;
+  color: white;
+  border-color: #162d8c;
 }

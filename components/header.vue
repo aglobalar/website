@@ -1,6 +1,6 @@
 <template>
   <header id="header" class="fixed z-999 w-100" role="banner">
-    <div class="container center relative ph3">
+    <div class="container center relative ph4">
       <div class="flex justify-between items-center">
         <a href="/" aria-label="aglobal" class="link">
         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
@@ -30,16 +30,16 @@
         </a>
         <div id="desktop-menu" class="dn-ms">
           <nav class="items-center flex tracked">
-            <a v-scroll-to="'#nosotros'" class="hover-green-tr link f6 ph3 dib ttu">nosotros</a>
-            <a v-scroll-to="'#servicios'" class="hover-green-tr link f6 ph3 dib ttu">servicios</a>
-            <a v-scroll-to="'#contacto'" class="hover-green-tr link f6 ph3 dib ttu">contacto</a>
+            <a v-scroll-to="'#nosotros'" class="hover-green-tr link f6 ph4 dib ttu">nosotros</a>
+            <a v-scroll-to="'#servicios'" class="hover-green-tr link f6 ph4 dib ttu">servicios</a>
+            <a v-scroll-to="'#contacto'" class="hover-green-tr link f6 ph4 dib ttu">contacto</a>
           </nav>
         </div>
 
         <div class="dn-l">
           <div class="dropdown">
             <button class="dropbtn" aria-label="Toggle Menu"><img src="/menu.svg"></button>
-            <nav class="dropdown-menu ph3">
+            <nav class="dropdown-menu ph4">
               <a v-scroll-to="'#nosotros'" class="link f6 db ttu pv3">nosotros</a>
               <a v-scroll-to="'#servicios'" class="link f6 db ttu pv3">servicios</a>
               <a v-scroll-to="'#contacto'" class="link f6 db ttu pv3">contacto</a>

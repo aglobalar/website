@@ -1,5 +1,5 @@
 <template>
-<div class="container center ph3 dn-ms">
+<div class="container center ph4 dn-ms">
   <div class="clients pv5-l pv4">
     <div class="tc pb4">
       <p class="f5 ttu tag normal tracked">experiencia</p>
@@ -23,7 +23,7 @@ export default {
     return {
       clients: [
         {
-          link: 'https://www.cisco.com/c/en/us/index.html',
+          link: '/cisco',
           name: 'cisco',
         },
         {
