@@ -4,7 +4,7 @@
     <div class="flex flex-wrap justify-between">
             <div class="w-50-l w-100 pr4-l ph4">
         <h1 class="trust-title white">Protegemos su negocio con las soluciones de seguridad más potentes del mercado</h1>
-        <p class="lh-global white">Implementá la <strong>Seguridad de Zero Trust de Cisco</strong></p>
+        <p class="lh-global white">Implemente la <strong>Seguridad de Zero Trust de Cisco</strong></p>
       </div>
             <div class="w-50-l w-100 ph4-l ph4">
                 <p class="lh-global white">Integrado en un ecosistema de productos que permite proporcionar una seguridad completa en cualquier entorno empresarial.</p>

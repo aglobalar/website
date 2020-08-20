@@ -10,7 +10,7 @@
               <p class="lh-subtitle moon-gray mt0 mb5-l mb4">Buscamos mantener relacionamientos estratégicos con
                 nuestros clientes en base a confianza y lealtad, ayudandolos a mejorar sus negocios a traves de la
                 tecnologia, innovacion y servicios.</p>
-              <p class="mb0"><a v-scroll-to="'#servicios'" class="link ttu btn br2 tracked white">descubrí mas</a></p>
+              <p class="mb0"><a v-scroll-to="'#servicios'" class="link ttu btn br2 tracked white">descubrir más</a></p>
             </div>
             <div class="w-50-l w-100 pt0-l pt4"><img src="/book-pass.png" class="img-hero" alt="cybersecurity"></div>
           </div>
