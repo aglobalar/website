@@ -6,6 +6,7 @@
     </div>
     <tr-nosotros />
     <tr-servicios />
+     <tr-cisco />
     <tr-clientes />
     <tr-contacto />
   </div>
@@ -16,6 +17,7 @@
   import TrBanner from '~/components/banners.vue'
   import TrNosotros from '~/components/about.vue'
   import TrServicios from '~/components/servicios.vue'
+  import TrCisco from '~/components/cta-cisco.vue'
   import TrClientes from '~/components/clientes.vue'
   import TrContacto from '~/components/contact.vue'
 
@@ -26,6 +28,7 @@
       TrNosotros,
       TrClientes,
       TrServicios,
+      TrCisco,
       TrContacto
     }
   }

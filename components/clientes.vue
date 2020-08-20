@@ -23,7 +23,7 @@ export default {
     return {
       clients: [
         {
-          link: '/cisco',
+          link: 'https://www.cisco.com/c/en/us/index.html',
           name: 'cisco',
         },
         {
