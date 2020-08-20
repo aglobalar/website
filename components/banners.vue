@@ -21,7 +21,7 @@
           <div class="h-100 flex flex-wrap justify-between items-center">
             <div class="w-50-l w-100 tl-l tc pa0-l pv3">
               <p class="ttu green-gl tracked">mision</p>
-              <h1 class="mv3 white">Innovación, calidad y servicios de excelencia</h1>
+              <h1 class="mv3 white w-90-l w-100">Innovación, calidad y servicios de excelencia</h1>
               <p class="lh-subtitle moon-gray mt0 mb5-l mb4">Nuestro principal objetivo es ser los mejores en lo que
                 hacemos a través de tecnología e innovación en servicios.</p>
               <p class="mb0"><a v-scroll-to="'#nosotros'" class="link ttu btn br2 tracked white">conócenos</a></p>
