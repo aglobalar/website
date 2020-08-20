@@ -3,7 +3,7 @@
     <p class="ttu green-gl tracked">cisco partners</p>
     <h1 class="f1-l f4 mt0 lh-title" data-aos="fade-up" data-aos-delay="40">Protegemos su negocio con las soluciones<br>
       de seguridad más potentes del mercado</h1>
-    <p class="mb5-l mb4" data-aos="fade-up" data-aos-delay="50">Implementá la Seguridad de Zero Trust de Cisco</p>
+    <p class="f4-l f5 mb5-l mb4" data-aos="fade-up" data-aos-delay="50">Implementá la Seguridad de Zero Trust de Cisco</p>
     <p data-aos="fade-up" data-aos-delay="60"><a href="/cisco" class="link ttu btn br2 tracked white">conocé como</a>
     </p>
   </div>
@@ -18,9 +18,5 @@
     background-size: 60%;
     background-repeat: no-repeat;
     background-position: right center;
-
-    @media screen and (max-width: 60em) {
-      background: none;
-    }
   }
 </style>
