@@ -33,6 +33,7 @@ meta: [
       { name: 'twitter:title', content: 'AGlobal' },
       { name: 'twitter:description', content: 'Somos una empresa joven proveedora de soluciones y servicios integrados de Tecnologías y comunicaciones basados en una amplia experiencia en redes, seguridad, infraestructura ti, colaboracion, servicios profesionales y gerenciados.'},
       { name: 'twitter:image', content: 'https://aglobal.com.ar/og-image.png' },   
+      { name: 'dp-popup', content: 'luS%2fU0rpiVSIdSmsa%2fngGw%3d%3d'}
     ],
     script: [
       {
