@@ -6,8 +6,8 @@
         <article v-for="s in servicios" :key="s.name" class="w-third-l ph2 z-1 relative mv2" data-aos="fade-up" data-aos-delay="50" >
           <span class="absolute top-1 right-2-l right-1"><img :src="`/${s.icon}.svg`" :alt="s.name"></span>
           <div class="h-services lh-copy h5 dtc v-btm">
-            <p class="green-gl ttu f4 fw7">{{s.name}}</p>
-            <p class="mb0 b f5-l f6">{{s.subtitle}}</p>
+            <p class="green-gl ttu f4 fw7 w-100-l w-80">{{s.name}}</p>
+            <p class="mb2 b f5-l f6">{{s.subtitle}}</p>
             <p class="mv0 f6">{{s.content}}</p>
           </div>
         </article>

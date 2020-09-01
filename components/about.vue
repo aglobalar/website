@@ -13,7 +13,7 @@
         <p class="lh-global">Permitimos que los clientes opten por el modelo que mejor se ajuste a sus necesidades, tanto en términos
           tecnológicos como en relación a la adquisición y entrega. Además, ofrecemos servicios de planificación,
           diseño, implementación e integración hasta el soporte, gerenciamiento y operación. </p>
-          <h3 class="blue-gl f4-l f5 normal">Contamos con un amplio reconocimiento del mercado</h3>
+          <h3 class="blue-gl f4 normal lh-global">Contamos con un amplio reconocimiento del mercado</h3>
           <p class="lh-global">Nos especializamos en Seguridad avanzada, Routing y Switching, Wireless avanzado, Colaboracion de Voz y Video, Capacitacion</p>
       </div>
     </div>
@@ -24,7 +24,7 @@
 .about-title {
   font-size: 2rem;
    @media screen and (max-width: 60em) {
-     font-size: 1.2rem;
+     font-size: 1.3rem;
    }
 }
 .lh-global {

@@ -32,9 +32,15 @@ meta: [
       { name: 'twitter:site', content: '@aglobal_it' },
       { name: 'twitter:title', content: 'AGlobal' },
       { name: 'twitter:description', content: 'Somos una empresa joven proveedora de soluciones y servicios integrados de Tecnologías y comunicaciones basados en una amplia experiencia en redes, seguridad, infraestructura ti, colaboracion, servicios profesionales y gerenciados.'},
-      { name: 'twitter:image', content: 'https://aglobal.com.ar/og-image.png' },     
+      { name: 'twitter:image', content: 'https://aglobal.com.ar/og-image.png' },   
+    ],
+    script: [
+      {
+        src: 'https://cdn.fromdoppler.com/formgenerator/latest/vendor.js?95776138'
+      }
     ],
     link: [
+      { rel: 'stylesheet', href: 'https://cdn.fromdoppler.com/formgenerator/latest/styles.css?95776138'},
       { rel: 'icon', type: 'image/x-icon', href: 'https://aglobal.com.ar/favicon.ico' },
       { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.11.1/tachyons.min.css'},
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Poppins:400,700'},
