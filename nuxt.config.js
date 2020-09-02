@@ -37,11 +37,11 @@ meta: [
     ],
     script: [
       {
-        src: 'https://cdn.fromdoppler.com/formgenerator/latest/vendor.js?95776138'
+        src: 'https://cdn.fromdoppler.com/formgenerator/latest/vendor.js?12617795'
       }
     ],
     link: [
-      { rel: 'stylesheet', href: 'https://cdn.fromdoppler.com/formgenerator/latest/styles.css?95776138'},
+      { rel: 'stylesheet', href: 'https://cdn.fromdoppler.com/formgenerator/latest/styles.css?12617795'},
       { rel: 'icon', type: 'image/x-icon', href: 'https://aglobal.com.ar/favicon.ico' },
       { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.11.1/tachyons.min.css'},
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Poppins:400,700'},
