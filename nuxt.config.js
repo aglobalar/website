@@ -66,7 +66,8 @@ meta: [
   plugins: [
     { src: '~/plugins/owl.js', ssr: false },
     { src: '~/plugins/scroll-to.js', ssr: false },
-    { src: '~/plugins/aos.js', ssr: false } // https://github.com/michalsnik/aos#animations
+    { src: '~/plugins/aos.js', ssr: false }, // https://github.com/michalsnik/aos#animations
+    { src: '~/plugins/ga.js', mode: 'client'} // google analytics
   ],
 
   /*
