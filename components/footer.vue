@@ -1,5 +1,5 @@
 <template>
-  <footer>
+  <footer class="bg-white">
     <div class="container center ph4 pv4">
       <div class="flex flex-wrap justify-between-l justify-center items-center">
         <p class="f7 tl-l tc">AGlobal © 2015 - 2020. Todos los derechos protegidos. </p>

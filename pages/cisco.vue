@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-white">
     <tr-headerc />
          <tr-hero />
     <tr-about />
