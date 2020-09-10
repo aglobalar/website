@@ -17,14 +17,16 @@
 <style lang="scss" scoped>
   .slider {
     width: 100%;
-    background: url("/back-hero-cisco.png");
+    background: white url("/back-hero-cisco.png");
     background-size: 60%;
     background-repeat: no-repeat;
-    background-position: right center;
+    background-position: right bottom;
 
     @media screen and (max-width: 60em) {
-      background: none;
+       background-position: 50px bottom;
+       background-size: 150%;
     }
+
 
     h1 {
       font-size: 3.2em;
