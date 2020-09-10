@@ -39,7 +39,7 @@
         <div class="dn-l">
           <div class="dropdown">
             <button class="dropbtn" aria-label="Toggle Menu"><img src="/menu.svg"></button>
-            <nav class="dropdown-menu ph4">
+            <nav class="dropdown-aglobal ph4">
               <a v-scroll-to="'#nosotros'" class="link f6 db ttu pv3">nosotros</a>
               <a v-scroll-to="'#servicios'" class="link f6 db ttu pv3">servicios</a>
               <a v-scroll-to="'#contacto'" class="link f6 db ttu pv3">contacto</a>
@@ -56,7 +56,7 @@
 // Dropdown Menu
 function menuMob() {
   const toggle = document.querySelector(".dropbtn");
-  const topNav = document.querySelector(".dropdown-menu");
+  const topNav = document.querySelector(".dropdown-aglobal");
 
   toggle.addEventListener('click', function () {
     topNav.classList.toggle("show");
@@ -125,7 +125,7 @@ export default {
         padding: 0;
       }
 
-      .dropdown-menu {
+      .dropdown-aglobal {
         font-size: 1.2em;
         display: none;
         position: absolute;

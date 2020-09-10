@@ -4,10 +4,10 @@
     <div class="bg-gradient">
       <tr-banner />
     </div>
-    <tr-nosotros />
+   <div class="bg-white"> <tr-nosotros /></div>
     <tr-servicios />
      <tr-cisco />
-    <tr-clientes />
+    <div class="bg-white"><tr-clientes /></div>
     <tr-contacto />
   </div>
 </template>
