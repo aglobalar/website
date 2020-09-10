@@ -149,9 +149,12 @@ export default {
       height: 4rem;
       padding: 1rem 0;
       background-color: white;
+      transition: 0.2s;
 
       .logo {
         fill: #162d8c;
+        width: 130px;
+        height: 25px;
       }
        nav a {
       color: #162d8c;

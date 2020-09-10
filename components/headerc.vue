@@ -120,6 +120,7 @@
       width: 155px;
       height: 30px;
       fill: #162d8c;
+      transition: 0.2s;
     }
 
     .logo-cisco {
@@ -127,6 +128,10 @@
       height: 80px;
       fill: #00bceb;
      background: white;
+     transition: 0.2s;
+      @media screen and (max-width: 60em) {
+        background: transparent;
+      }
     }
 
     &.w-icon {
