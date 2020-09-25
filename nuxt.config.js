@@ -37,7 +37,8 @@ meta: [
     ],
     script: [
       {
-        src: 'https://cdn.fromdoppler.com/formgenerator/latest/vendor.js?98115463'
+        src: 'https://cdn.fromdoppler.com/formgenerator/latest/vendor.js?98115463',
+        src: 'https://hub.fromdoppler.com/public/dhtrack.js'
       }
     ],
     link: [
