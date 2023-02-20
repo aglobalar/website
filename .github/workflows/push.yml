@@ -17,6 +17,7 @@ jobs:
     - run: |
         git config user.name pecasdesign
         git config user.email hola@pecas.design
+        sudo apt update && DEBIAN_FRONTEND=noninteractive sudo apt install -y python2 make g++
         npm i
         npm run generate
         npm run deploy
