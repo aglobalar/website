@@ -1,0 +1,27 @@
+on: 
+  push:
+    branches:
+      - develop
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  Build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Push
+      uses: actions/checkout@v3
+      with:
+        clean: true
+        ref: develop
+    - name: Use Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '14'
+    - run: |
+        git config user.name pecasdesign
+        git config user.email hola@pecas.design
+        sudo apt update && DEBIAN_FRONTEND=noninteractive sudo apt install -y python2 make g++
+        npm i
+        npm run generate
+        npm run deploy
